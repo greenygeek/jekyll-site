@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "My second Article!"
+date:   2015-01-23 15:24:58
+published: true
+description: "Something about this page which will descrivbe the content."
+categories: jekyll update
+---
+## something else
+
+<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam sequi ex dolorum, cumque consequatur, laudantium obcaecati aliquam aperiam pariatur rerum earum quae neque non perferendis officiis. Cupiditate nihil tenetur debitis?</div>
+
+<div>Dignissimos facere voluptatem officia odit quibusdam fugit soluta saepe eveniet vel error cupiditate nulla est veritatis perferendis obcaecati eius autem unde, itaque ea qui consequuntur. Recusandae illo expedita, possimus veniam.</div>
+
+
+<!--You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+Jekyll also offers powerful support for code snippets:
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help]. -->
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help
