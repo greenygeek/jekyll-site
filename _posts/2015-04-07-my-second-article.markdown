@@ -3,9 +3,10 @@ layout: post
 title:  "My second Article!"
 date:   2015-01-23 15:24:58
 published: true
-description: "Something about this page which will descrivbe the content."
+description: "Something about this page which will describe the content."
 categories: jekyll update
 ---
+
 ## something else
 
 <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam sequi ex dolorum, cumque consequatur, laudantium obcaecati aliquam aperiam pariatur rerum earum quae neque non perferendis officiis. Cupiditate nihil tenetur debitis?</div>
